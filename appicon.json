@@ -6,6 +6,9 @@
             "name": "ithome.png",
             "url": "https://github.com/feitougui/QuantumultX/raw/refs/heads/main/Icons/ithome.png"
         },
-        {"name":"QQ.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png"},
+        {
+            "name": "QQ.png",
+            "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png"
+        }
     ]
 }
