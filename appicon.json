@@ -3,10 +3,6 @@
     "description": "Made by Lizhenfei",
     "icons": [
         {
-            "name": "ithome.png",
-            "url": "https://github.com/feitougui/QuantumultX/raw/refs/heads/main/Icons/ithome.png"
-        },
-        {
             "name": "QQ.png",
             "url": "https://github.com/feitougui/QuantumultX/raw/refs/heads/main/Icons/QQ.png"
         },
